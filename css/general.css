@@ -42,6 +42,13 @@ body {
     margin: 0.5rem auto;
 }
 
+hr {
+    border-width: thick;
+    border-style: solid;
+    border-color: #ed2889;
+}
+
+
 article {
     margin: 0;
     padding: 0 5%;
